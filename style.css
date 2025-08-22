@@ -19,9 +19,12 @@
 
     @page {
         size: A4 portrait; /* или landscape, если нужно по ширине */
-        margin: 1cm; /* можно 0, если совсем впритык нужно */
+
+        margin: 20mm 15mm 10mm 15mm;
     }
 }
+
+
 
 .unselectable {
     -webkit-user-select: none;
