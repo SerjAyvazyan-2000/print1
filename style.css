@@ -91,7 +91,7 @@ body {
 }
 .inner-table-text7{
     width: 473px !important;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #000 !important;
 }
 .inner-table-text8{
     width: 5px !important;
@@ -113,6 +113,7 @@ body {
 .inner-table-text13{
     width: 162px !important;
     border-bottom: 1px solid #000 !important;
+    padding: 0 !important;
 }
 .inner-table-text14{
     width: 28px ;
@@ -136,7 +137,7 @@ body {
     width: 94px !important;
 }
 .inner-table-text19{
-    width: 66px !important;
+    width: 106px !important;
     border-bottom: 1px solid #000 !important;
 }
 .inner-table-text20{
